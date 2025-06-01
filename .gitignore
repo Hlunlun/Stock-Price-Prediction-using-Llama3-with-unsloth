@@ -1,4 +1,5 @@
 .env
+
 data
 prompt
 outputs
@@ -12,8 +13,10 @@ test.ipynb
 ui.py
 Llama_3_2_1B+3B_Conversational_+_2x_faster_finetuning.ipynb
 stock_decision.ipynb
+model.py
 
 
 all_stock_data__.json
+all_stock_data.json
 company_no_codes.csv
 台灣積體電路製造股份有限公司_K線圖.html
