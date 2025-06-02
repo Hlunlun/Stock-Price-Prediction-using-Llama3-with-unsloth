@@ -1,6 +1,5 @@
 .env
 
-data
 prompt
 outputs
 examples
@@ -20,3 +19,11 @@ all_stock_data__.json
 all_stock_data.json
 company_no_codes.csv
 台灣積體電路製造股份有限公司_K線圖.html
+
+
+data/rules.json
+data/tech_cop_news.json
+data/company_no_codes.csv
+data/tech_cop.png
+data/stocks_test
+data/stocks_

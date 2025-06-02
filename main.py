@@ -16,7 +16,7 @@ def argparse_args():
 
     # Data
     parser.add_argument('--data-dir', type=str, default='data')
-    parser.add_argument('--company-list-file', type=str, default='tech_cop_news.json')
+    parser.add_argument('--company-list-file', type=str, default='tech_cop.json')
     parser.add_argument('--year', type=int, default=2024)
     parser.add_argument('--month', type=int, default=9)
     parser.add_argument('--choose-stock', type=int, default=1)
