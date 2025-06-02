@@ -399,7 +399,10 @@ trainer = SFTTrainer(
     | `--report-to` | 訓練過程中要將訓練指標（如 loss、learning rate 等）回報到哪裡，如本次實驗是用 `tensorboard` |
 
 ### Get Started
-
+安裝所需套件
+```bash
+pip install -r requirements.txt 
+```
 1. 自行準備資料
     1.  將想要訓練的公司名字或是股票編號放到 `.json` 檔案中
         
